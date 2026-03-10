@@ -1,0 +1,2 @@
+﻿Week01 Data preparation
+This project utilized basic quantitative and numerical data preparation skills. This included collecting, cleaning, and structuring a dataset, as well as combining multiple tables using unique identifiers. Spreadsheet tools were used to sort, tabulate, and validate the data structure. This project demonstrates skills in working with data, preparing information for analysis, and organizing data into a clear and structured format.
