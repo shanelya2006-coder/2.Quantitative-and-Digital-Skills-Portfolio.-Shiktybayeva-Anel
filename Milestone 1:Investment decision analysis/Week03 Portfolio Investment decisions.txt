@@ -1,0 +1,2 @@
+﻿Week03 Portfolio Investment decisions
+This project utilized quantitative and numerical skills in financial data analysis. Calculations of asset returns based on historical prices were performed, key statistical indicators were analyzed, and investment risk was assessed using standard deviation. The Sharpe ratio was also calculated to compare investment performance. The project demonstrates skills in working with financial time series, analyzing risk-return relationships, and presenting results in a structured analytical format.
