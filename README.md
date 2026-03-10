@@ -1,0 +1,1 @@
+# 2.Quantitative-and-Digital-Skills-Portfolio.-Shiktybayeva-Anel
